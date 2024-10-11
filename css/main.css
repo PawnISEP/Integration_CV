@@ -101,6 +101,10 @@ html {
     border-radius: 50%; /* Rend la bordure ronde */
 }
 
+footer {
+    border-radius: 0; 
+}
+
 footer a:not(.nav-link) {
   color: inherit;
   border-bottom: 1px dashed;
