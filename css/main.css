@@ -1,6 +1,11 @@
 /* Buttons */
 /* Inputs */
 /* Timeline custom component */
+
+body {
+    font-family: 'Jacquard 24', sans-serif;
+}
+
 .timeline {
   border-left: 2px solid #E6E9ED;
   padding: 1rem 0; }
